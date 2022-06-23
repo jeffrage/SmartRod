@@ -1,1 +1,5 @@
-
+public class Rod{
+  public static void main{
+    system.out.println "Hello world"
+  }
+}
